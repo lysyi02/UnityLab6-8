@@ -47498,7 +47498,7 @@ MonoBehaviour:
   mainCam: {fileID: 1881349561}
   interactionDistance: 4
   interactionText: {fileID: 288759469}
-  actionReference: {fileID: 0}
+  actionReference: {fileID: -1661909353914522775, guid: 4419d82f33d36e848b3ed5af4c8da37e, type: 3}
 --- !u!114 &8890774966839242419
 MonoBehaviour:
   m_ObjectHideFlags: 0
