@@ -21,6 +21,7 @@ public class PlayerInteraction : MonoBehaviour
         actionReference.action.started += ctx => {
             if (interactable != null) {
               interactable.Interact();
+              InteractionRay();
             }
         };
     }
